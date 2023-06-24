@@ -1,0 +1,2215 @@
+[
+    {
+        "stateId": "1",
+        "stateName": "Delhi",
+        "city": [
+            {
+                "cityId": "4",
+                "cityName": "West delhi"
+            },
+            {
+                "cityId": "3",
+                "cityName": "North west delhi"
+            },
+            {
+                "cityId": "1",
+                "cityName": "South east delhi"
+            },
+            {
+                "cityId": "2",
+                "cityName": "North delhi"
+            },
+            {
+                "cityId": "5",
+                "cityName": "Central delhi"
+            }
+        ]
+    },
+    {
+        "stateId": "10",
+        "stateName": "Gujarat",
+        "city": [
+            {
+                "cityId": "192",
+                "cityName": "Rajkot"
+            },
+            {
+                "cityId": "208",
+                "cityName": "Kheda"
+            },
+            {
+                "cityId": "209",
+                "cityName": "Anand"
+            },
+            {
+                "cityId": "200",
+                "cityName": "Gandhi nagar"
+            },
+            {
+                "cityId": "197",
+                "cityName": "Porbandar"
+            },
+            {
+                "cityId": "211",
+                "cityName": "Vadodara"
+            },
+            {
+                "cityId": "202",
+                "cityName": "Morbi"
+            },
+            {
+                "cityId": "210",
+                "cityName": "Panch mahals"
+            },
+            {
+                "cityId": "212",
+                "cityName": "Dahod"
+            },
+            {
+                "cityId": "205",
+                "cityName": "Sabarkantha"
+            },
+            {
+                "cityId": "213",
+                "cityName": "Narmada"
+            },
+            {
+                "cityId": "216",
+                "cityName": "The dangs"
+            },
+            {
+                "cityId": "207",
+                "cityName": "Banaskantha"
+            },
+            {
+                "cityId": "218",
+                "cityName": "Valsad"
+            },
+            {
+                "cityId": "206",
+                "cityName": "Patan"
+            },
+            {
+                "cityId": "217",
+                "cityName": "Navsari"
+            },
+            {
+                "cityId": "203",
+                "cityName": "Kachchh"
+            },
+            {
+                "cityId": "215",
+                "cityName": "Surat"
+            },
+            {
+                "cityId": "198",
+                "cityName": "Junagadh"
+            },
+            {
+                "cityId": "214",
+                "cityName": "Bharuch"
+            },
+            {
+                "cityId": "193",
+                "cityName": "Jamnagar"
+            },
+            {
+                "cityId": "201",
+                "cityName": "Ahmedabad"
+            },
+            {
+                "cityId": "194",
+                "cityName": "Bhavnagar"
+            },
+            {
+                "cityId": "195",
+                "cityName": "Amreli"
+            },
+            {
+                "cityId": "196",
+                "cityName": "Surendra nagar"
+            },
+            {
+                "cityId": "204",
+                "cityName": "Mahesana"
+            }
+        ]
+    },
+    {
+        "stateId": "11",
+        "stateName": "Daman & diu",
+        "city": [
+            {
+                "cityId": "220",
+                "cityName": "Daman"
+            },
+            {
+                "cityId": "199",
+                "cityName": "Diu"
+            }
+        ]
+    },
+    {
+        "stateId": "12",
+        "stateName": "Dadra & nagar haveli",
+        "city": [
+            {
+                "cityId": "219",
+                "cityName": "Dadra & nagar haveli"
+            }
+        ]
+    },
+    {
+        "stateId": "13",
+        "stateName": "Maharashtra",
+        "city": [
+            {
+                "cityId": "242",
+                "cityName": "Jalna"
+            },
+            {
+                "cityId": "225",
+                "cityName": "Raigarh(mh)"
+            },
+            {
+                "cityId": "236",
+                "cityName": "Sangli"
+            },
+            {
+                "cityId": "246",
+                "cityName": "Nagpur"
+            },
+            {
+                "cityId": "253",
+                "cityName": "Buldhana"
+            },
+            {
+                "cityId": "245",
+                "cityName": "Nanded"
+            },
+            {
+                "cityId": "255",
+                "cityName": "Washim"
+            },
+            {
+                "cityId": "256",
+                "cityName": "Yavatmal"
+            },
+            {
+                "cityId": "231",
+                "cityName": "Beed"
+            },
+            {
+                "cityId": "221",
+                "cityName": "Mumbai"
+            },
+            {
+                "cityId": "226",
+                "cityName": "Pune"
+            },
+            {
+                "cityId": "237",
+                "cityName": "Sindhudurg"
+            },
+            {
+                "cityId": "232",
+                "cityName": "Osmanabad"
+            },
+            {
+                "cityId": "222",
+                "cityName": "Ahmed nagar"
+            },
+            {
+                "cityId": "249",
+                "cityName": "Gadchiroli"
+            },
+            {
+                "cityId": "251",
+                "cityName": "Wardha"
+            },
+            {
+                "cityId": "247",
+                "cityName": "Bhandara"
+            },
+            {
+                "cityId": "254",
+                "cityName": "Akola"
+            },
+            {
+                "cityId": "238",
+                "cityName": "Nashik"
+            },
+            {
+                "cityId": "244",
+                "cityName": "Hingoli"
+            },
+            {
+                "cityId": "223",
+                "cityName": "Aurangabad"
+            },
+            {
+                "cityId": "229",
+                "cityName": "Satara"
+            },
+            {
+                "cityId": "235",
+                "cityName": "Ratnagiri"
+            },
+            {
+                "cityId": "252",
+                "cityName": "Amravati"
+            },
+            {
+                "cityId": "230",
+                "cityName": "Solapur"
+            },
+            {
+                "cityId": "243",
+                "cityName": "Parbhani"
+            },
+            {
+                "cityId": "233",
+                "cityName": "Latur"
+            },
+            {
+                "cityId": "234",
+                "cityName": "Kolhapur"
+            },
+            {
+                "cityId": "240",
+                "cityName": "Jalgaon"
+            },
+            {
+                "cityId": "241",
+                "cityName": "Nandurbar"
+            },
+            {
+                "cityId": "239",
+                "cityName": "Dhule"
+            },
+            {
+                "cityId": "248",
+                "cityName": "Chandrapur"
+            },
+            {
+                "cityId": "224",
+                "cityName": "Thane"
+            },
+            {
+                "cityId": "250",
+                "cityName": "Gondia"
+            }
+        ]
+    },
+    {
+        "stateId": "14",
+        "stateName": "Goa",
+        "city": [
+            {
+                "cityId": "227",
+                "cityName": "North goa"
+            },
+            {
+                "cityId": "228",
+                "cityName": "South goa"
+            }
+        ]
+    },
+    {
+        "stateId": "15",
+        "stateName": "Madhya pradesh",
+        "city": [
+            {
+                "cityId": "297",
+                "cityName": "Satna"
+            },
+            {
+                "cityId": "276",
+                "cityName": "Vidisha"
+            },
+            {
+                "cityId": "287",
+                "cityName": "Datia"
+            },
+            {
+                "cityId": "299",
+                "cityName": "Umaria"
+            },
+            {
+                "cityId": "267",
+                "cityName": "Mandsaur"
+            },
+            {
+                "cityId": "298",
+                "cityName": "Shahdol"
+            },
+            {
+                "cityId": "259",
+                "cityName": "Barwani"
+            },
+            {
+                "cityId": "266",
+                "cityName": "Jhabua"
+            },
+            {
+                "cityId": "279",
+                "cityName": "Sehore"
+            },
+            {
+                "cityId": "289",
+                "cityName": "Bhind"
+            },
+            {
+                "cityId": "290",
+                "cityName": "Sheopur"
+            },
+            {
+                "cityId": "268",
+                "cityName": "Neemuch"
+            },
+            {
+                "cityId": "283",
+                "cityName": "Tikamgarh"
+            },
+            {
+                "cityId": "291",
+                "cityName": "Seoni"
+            },
+            {
+                "cityId": "277",
+                "cityName": "Sagar"
+            },
+            {
+                "cityId": "301",
+                "cityName": "Sidhi"
+            },
+            {
+                "cityId": "278",
+                "cityName": "Rajgarh"
+            },
+            {
+                "cityId": "272",
+                "cityName": "Harda"
+            },
+            {
+                "cityId": "281",
+                "cityName": "Chhatarpur"
+            },
+            {
+                "cityId": "293",
+                "cityName": "Dindori"
+            },
+            {
+                "cityId": "296",
+                "cityName": "Katni"
+            },
+            {
+                "cityId": "284",
+                "cityName": "Guna"
+            },
+            {
+                "cityId": "261",
+                "cityName": "Dewas"
+            },
+            {
+                "cityId": "285",
+                "cityName": "Shivpuri"
+            },
+            {
+                "cityId": "270",
+                "cityName": "Chhindwara"
+            },
+            {
+                "cityId": "286",
+                "cityName": "Gwalior"
+            },
+            {
+                "cityId": "288",
+                "cityName": "Morena"
+            },
+            {
+                "cityId": "300",
+                "cityName": "Anuppur"
+            },
+            {
+                "cityId": "262",
+                "cityName": "Dhar"
+            },
+            {
+                "cityId": "257",
+                "cityName": "East nimar"
+            },
+            {
+                "cityId": "274",
+                "cityName": "Bhopal"
+            },
+            {
+                "cityId": "269",
+                "cityName": "Betul"
+            },
+            {
+                "cityId": "275",
+                "cityName": "Raisen"
+            },
+            {
+                "cityId": "302",
+                "cityName": "Rewa"
+            },
+            {
+                "cityId": "265",
+                "cityName": "Ratlam"
+            },
+            {
+                "cityId": "282",
+                "cityName": "Panna"
+            },
+            {
+                "cityId": "263",
+                "cityName": "Ujjain"
+            },
+            {
+                "cityId": "260",
+                "cityName": "Indore"
+            },
+            {
+                "cityId": "271",
+                "cityName": "Hoshangabad"
+            },
+            {
+                "cityId": "264",
+                "cityName": "Shajapur"
+            },
+            {
+                "cityId": "292",
+                "cityName": "Balaghat"
+            },
+            {
+                "cityId": "295",
+                "cityName": "Jabalpur"
+            },
+            {
+                "cityId": "258",
+                "cityName": "West nimar"
+            },
+            {
+                "cityId": "294",
+                "cityName": "Mandla"
+            },
+            {
+                "cityId": "273",
+                "cityName": "Narsinghpur"
+            },
+            {
+                "cityId": "280",
+                "cityName": "Damoh"
+            }
+        ]
+    },
+    {
+        "stateId": "16",
+        "stateName": "Chattisgarh",
+        "city": [
+            {
+                "cityId": "311",
+                "cityName": "Kanker"
+            },
+            {
+                "cityId": "315",
+                "cityName": "Janjgir-champa"
+            },
+            {
+                "cityId": "305",
+                "cityName": "Kawardha"
+            },
+            {
+                "cityId": "313",
+                "cityName": "Narayanpur"
+            },
+            {
+                "cityId": "307",
+                "cityName": "Dhamtari"
+            },
+            {
+                "cityId": "314",
+                "cityName": "Bilaspur"
+            },
+            {
+                "cityId": "303",
+                "cityName": "Durg"
+            },
+            {
+                "cityId": "320",
+                "cityName": "Koriya"
+            },
+            {
+                "cityId": "308",
+                "cityName": "Mahasamund"
+            },
+            {
+                "cityId": "316",
+                "cityName": "Korba"
+            },
+            {
+                "cityId": "310",
+                "cityName": "Bijapur"
+            },
+            {
+                "cityId": "312",
+                "cityName": "Dantewada"
+            },
+            {
+                "cityId": "317",
+                "cityName": "Raigarh"
+            },
+            {
+                "cityId": "319",
+                "cityName": "Surguja"
+            },
+            {
+                "cityId": "304",
+                "cityName": "Rajnandgaon"
+            },
+            {
+                "cityId": "309",
+                "cityName": "Bastar"
+            },
+            {
+                "cityId": "306",
+                "cityName": "Raipur"
+            },
+            {
+                "cityId": "318",
+                "cityName": "Jashpur"
+            }
+        ]
+    },
+    {
+        "stateId": "17",
+        "stateName": "Telangana",
+        "city": [
+            {
+                "cityId": "324",
+                "cityName": "Nizamabad"
+            },
+            {
+                "cityId": "330",
+                "cityName": "Mahabub nagar"
+            },
+            {
+                "cityId": "322",
+                "cityName": "K.v.rangareddy"
+            },
+            {
+                "cityId": "323",
+                "cityName": "Medak"
+            },
+            {
+                "cityId": "325",
+                "cityName": "Adilabad"
+            },
+            {
+                "cityId": "321",
+                "cityName": "Hyderabad"
+            },
+            {
+                "cityId": "326",
+                "cityName": "Karim nagar"
+            },
+            {
+                "cityId": "329",
+                "cityName": "Nalgonda"
+            },
+            {
+                "cityId": "327",
+                "cityName": "Warangal"
+            },
+            {
+                "cityId": "328",
+                "cityName": "Khammam"
+            }
+        ]
+    },
+    {
+        "stateId": "18",
+        "stateName": "Andhra pradesh",
+        "city": [
+            {
+                "cityId": "336",
+                "cityName": "Krishna"
+            },
+            {
+                "cityId": "342",
+                "cityName": "Vizianagaram"
+            },
+            {
+                "cityId": "338",
+                "cityName": "Guntur"
+            },
+            {
+                "cityId": "339",
+                "cityName": "Prakasam"
+            },
+            {
+                "cityId": "332",
+                "cityName": "Cuddapah"
+            },
+            {
+                "cityId": "344",
+                "cityName": "East godavari"
+            },
+            {
+                "cityId": "331",
+                "cityName": "Ananthapur"
+            },
+            {
+                "cityId": "337",
+                "cityName": "West godavari"
+            },
+            {
+                "cityId": "343",
+                "cityName": "Srikakulam"
+            },
+            {
+                "cityId": "335",
+                "cityName": "Kurnool"
+            },
+            {
+                "cityId": "340",
+                "cityName": "Nellore"
+            },
+            {
+                "cityId": "333",
+                "cityName": "Chittoor"
+            },
+            {
+                "cityId": "341",
+                "cityName": "Visakhapatnam"
+            }
+        ]
+    },
+    {
+        "stateId": "19",
+        "stateName": "Tamil nadu",
+        "city": [
+            {
+                "cityId": "397",
+                "cityName": "Theni"
+            },
+            {
+                "cityId": "398",
+                "cityName": "Tuticorin"
+            },
+            {
+                "cityId": "393",
+                "cityName": "Virudhunagar"
+            },
+            {
+                "cityId": "400",
+                "cityName": "Kanyakumari"
+            },
+            {
+                "cityId": "392",
+                "cityName": "Ramanathapuram"
+            },
+            {
+                "cityId": "376",
+                "cityName": "Villupuram"
+            },
+            {
+                "cityId": "395",
+                "cityName": "Madurai"
+            },
+            {
+                "cityId": "380",
+                "cityName": "Nagapattinam"
+            },
+            {
+                "cityId": "387",
+                "cityName": "Namakkal"
+            },
+            {
+                "cityId": "383",
+                "cityName": "Tiruvarur"
+            },
+            {
+                "cityId": "334",
+                "cityName": "Vellore"
+            },
+            {
+                "cityId": "377",
+                "cityName": "Tiruvannamalai"
+            },
+            {
+                "cityId": "381",
+                "cityName": "Ariyalur"
+            },
+            {
+                "cityId": "385",
+                "cityName": "Tiruchirappalli"
+            },
+            {
+                "cityId": "386",
+                "cityName": "Pudukkottai"
+            },
+            {
+                "cityId": "396",
+                "cityName": "Tiruppur"
+            },
+            {
+                "cityId": "405",
+                "cityName": "Nilgiris"
+            },
+            {
+                "cityId": "394",
+                "cityName": "Dindigul"
+            },
+            {
+                "cityId": "399",
+                "cityName": "Tirunelveli"
+            },
+            {
+                "cityId": "391",
+                "cityName": "Sivaganga"
+            },
+            {
+                "cityId": "403",
+                "cityName": "Erode"
+            },
+            {
+                "cityId": "390",
+                "cityName": "Karur"
+            },
+            {
+                "cityId": "401",
+                "cityName": "Krishnagiri"
+            },
+            {
+                "cityId": "373",
+                "cityName": "Chennai"
+            },
+            {
+                "cityId": "389",
+                "cityName": "Salem"
+            },
+            {
+                "cityId": "404",
+                "cityName": "Coimbatore"
+            },
+            {
+                "cityId": "374",
+                "cityName": "Kanchipuram"
+            },
+            {
+                "cityId": "382",
+                "cityName": "Thanjavur"
+            },
+            {
+                "cityId": "375",
+                "cityName": "Tiruvallur"
+            },
+            {
+                "cityId": "379",
+                "cityName": "Cuddalore"
+            },
+            {
+                "cityId": "402",
+                "cityName": "Dharmapuri"
+            },
+            {
+                "cityId": "388",
+                "cityName": "Perambalur"
+            }
+        ]
+    },
+    {
+        "stateId": "2",
+        "stateName": "Haryana",
+        "city": [
+            {
+                "cityId": "11",
+                "cityName": "Gurgaon"
+            },
+            {
+                "cityId": "16",
+                "cityName": "Hisar"
+            },
+            {
+                "cityId": "17",
+                "cityName": "Fatehabad"
+            },
+            {
+                "cityId": "26",
+                "cityName": "Kaithal"
+            },
+            {
+                "cityId": "21",
+                "cityName": "Bhiwani"
+            },
+            {
+                "cityId": "14",
+                "cityName": "Rohtak"
+            },
+            {
+                "cityId": "20",
+                "cityName": "Karnal"
+            },
+            {
+                "cityId": "10",
+                "cityName": "Mahendragarh"
+            },
+            {
+                "cityId": "15",
+                "cityName": "Jhajjar"
+            },
+            {
+                "cityId": "23",
+                "cityName": "Panipat"
+            },
+            {
+                "cityId": "12",
+                "cityName": "Rewari"
+            },
+            {
+                "cityId": "24",
+                "cityName": "Yamuna nagar"
+            },
+            {
+                "cityId": "19",
+                "cityName": "Jind"
+            },
+            {
+                "cityId": "18",
+                "cityName": "Sirsa"
+            },
+            {
+                "cityId": "25",
+                "cityName": "Panchkula"
+            },
+            {
+                "cityId": "13",
+                "cityName": "Ambala"
+            },
+            {
+                "cityId": "22",
+                "cityName": "Sonipat"
+            },
+            {
+                "cityId": "27",
+                "cityName": "Kurukshetra"
+            }
+        ]
+    },
+    {
+        "stateId": "20",
+        "stateName": "Karnataka",
+        "city": [
+            {
+                "cityId": "348",
+                "cityName": "Tumkur"
+            },
+            {
+                "cityId": "347",
+                "cityName": "Ramanagar"
+            },
+            {
+                "cityId": "357",
+                "cityName": "Udupi"
+            },
+            {
+                "cityId": "362",
+                "cityName": "Dharward"
+            },
+            {
+                "cityId": "345",
+                "cityName": "Bangalore"
+            },
+            {
+                "cityId": "356",
+                "cityName": "Chickmagalur"
+            },
+            {
+                "cityId": "366",
+                "cityName": "Belgaum"
+            },
+            {
+                "cityId": "372",
+                "cityName": "Bagalkot"
+            },
+            {
+                "cityId": "367",
+                "cityName": "Bellary"
+            },
+            {
+                "cityId": "361",
+                "cityName": "Chitradurga"
+            },
+            {
+                "cityId": "351",
+                "cityName": "Mysuru"
+            },
+            {
+                "cityId": "369",
+                "cityName": "Raichur"
+            },
+            {
+                "cityId": "365",
+                "cityName": "Uttara kannada"
+            },
+            {
+                "cityId": "353",
+                "cityName": "Kodagu"
+            },
+            {
+                "cityId": "358",
+                "cityName": "Dakshina kannada"
+            },
+            {
+                "cityId": "360",
+                "cityName": "Shimoga"
+            },
+            {
+                "cityId": "350",
+                "cityName": "Kolar"
+            },
+            {
+                "cityId": "368",
+                "cityName": "Koppal"
+            },
+            {
+                "cityId": "371",
+                "cityName": "Bidar"
+            },
+            {
+                "cityId": "355",
+                "cityName": "Hassan"
+            },
+            {
+                "cityId": "354",
+                "cityName": "Mandya"
+            },
+            {
+                "cityId": "364",
+                "cityName": "Gadag"
+            },
+            {
+                "cityId": "346",
+                "cityName": "Bangalore rural"
+            },
+            {
+                "cityId": "352",
+                "cityName": "Chamrajnagar"
+            },
+            {
+                "cityId": "370",
+                "cityName": "Gulbarga"
+            },
+            {
+                "cityId": "349",
+                "cityName": "Chikkaballapur"
+            },
+            {
+                "cityId": "359",
+                "cityName": "Davangare"
+            },
+            {
+                "cityId": "363",
+                "cityName": "Haveri"
+            }
+        ]
+    },
+    {
+        "stateId": "21",
+        "stateName": "Pondicherry",
+        "city": [
+            {
+                "cityId": "378",
+                "cityName": "Pondicherry"
+            },
+            {
+                "cityId": "384",
+                "cityName": "Karaikal"
+            }
+        ]
+    },
+    {
+        "stateId": "22",
+        "stateName": "Kerala",
+        "city": [
+            {
+                "cityId": "411",
+                "cityName": "Palakkad"
+            },
+            {
+                "cityId": "408",
+                "cityName": "Wayanad"
+            },
+            {
+                "cityId": "409",
+                "cityName": "Kozhikode"
+            },
+            {
+                "cityId": "419",
+                "cityName": "Kollam"
+            },
+            {
+                "cityId": "416",
+                "cityName": "Kottayam"
+            },
+            {
+                "cityId": "410",
+                "cityName": "Malappuram"
+            },
+            {
+                "cityId": "420",
+                "cityName": "Thiruvananthapuram"
+            },
+            {
+                "cityId": "406",
+                "cityName": "Kannur"
+            },
+            {
+                "cityId": "413",
+                "cityName": "Ernakulam"
+            },
+            {
+                "cityId": "417",
+                "cityName": "Alappuzha"
+            },
+            {
+                "cityId": "412",
+                "cityName": "Thrissur"
+            },
+            {
+                "cityId": "415",
+                "cityName": "Idukki"
+            },
+            {
+                "cityId": "418",
+                "cityName": "Pathanamthitta"
+            },
+            {
+                "cityId": "407",
+                "cityName": "Kasargod"
+            }
+        ]
+    },
+    {
+        "stateId": "23",
+        "stateName": "Lakshadweep",
+        "city": [
+            {
+                "cityId": "414",
+                "cityName": "Lakshadweep"
+            }
+        ]
+    },
+    {
+        "stateId": "24",
+        "stateName": "West bengal",
+        "city": [
+            {
+                "cityId": "439",
+                "cityName": "Cooch behar"
+            },
+            {
+                "cityId": "422",
+                "cityName": "South 24 parganas"
+            },
+            {
+                "cityId": "431",
+                "cityName": "Purulia"
+            },
+            {
+                "cityId": "433",
+                "cityName": "Malda"
+            },
+            {
+                "cityId": "426",
+                "cityName": "Bardhaman"
+            },
+            {
+                "cityId": "428",
+                "cityName": "West midnapore"
+            },
+            {
+                "cityId": "421",
+                "cityName": "Kolkata"
+            },
+            {
+                "cityId": "438",
+                "cityName": "Darjiling"
+            },
+            {
+                "cityId": "425",
+                "cityName": "Hooghly"
+            },
+            {
+                "cityId": "423",
+                "cityName": "North 24 parganas"
+            },
+            {
+                "cityId": "432",
+                "cityName": "Birbhum"
+            },
+            {
+                "cityId": "429",
+                "cityName": "East midnapore"
+            },
+            {
+                "cityId": "437",
+                "cityName": "Jalpaiguri"
+            },
+            {
+                "cityId": "427",
+                "cityName": "Murshidabad"
+            },
+            {
+                "cityId": "430",
+                "cityName": "Bankura"
+            },
+            {
+                "cityId": "434",
+                "cityName": "South dinajpur"
+            },
+            {
+                "cityId": "424",
+                "cityName": "Howrah"
+            },
+            {
+                "cityId": "436",
+                "cityName": "Nadia"
+            },
+            {
+                "cityId": "435",
+                "cityName": "North dinajpur"
+            }
+        ]
+    },
+    {
+        "stateId": "25",
+        "stateName": "Sikkim",
+        "city": [
+            {
+                "cityId": "440",
+                "cityName": "East sikkim"
+            },
+            {
+                "cityId": "441",
+                "cityName": "South sikkim"
+            },
+            {
+                "cityId": "442",
+                "cityName": "North sikkim"
+            },
+            {
+                "cityId": "443",
+                "cityName": "West sikkim"
+            }
+        ]
+    },
+    {
+        "stateId": "26",
+        "stateName": "Andaman & nicobar islands",
+        "city": [
+            {
+                "cityId": "446",
+                "cityName": "Nicobar"
+            },
+            {
+                "cityId": "445",
+                "cityName": "North and middle andaman"
+            },
+            {
+                "cityId": "444",
+                "cityName": "South andaman"
+            }
+        ]
+    },
+    {
+        "stateId": "27",
+        "stateName": "Odisha",
+        "city": [
+            {
+                "cityId": "475",
+                "cityName": "Debagarh"
+            },
+            {
+                "cityId": "468",
+                "cityName": "Kalahandi"
+            },
+            {
+                "cityId": "447",
+                "cityName": "Khorda"
+            },
+            {
+                "cityId": "452",
+                "cityName": "Jajapur"
+            },
+            {
+                "cityId": "456",
+                "cityName": "Mayurbhanj"
+            },
+            {
+                "cityId": "464",
+                "cityName": "Koraput"
+            },
+            {
+                "cityId": "474",
+                "cityName": "Jharsuguda"
+            },
+            {
+                "cityId": "467",
+                "cityName": "Nabarangapur"
+            },
+            {
+                "cityId": "455",
+                "cityName": "Baleswar"
+            },
+            {
+                "cityId": "471",
+                "cityName": "Sonapur"
+            },
+            {
+                "cityId": "466",
+                "cityName": "Malkangiri"
+            },
+            {
+                "cityId": "469",
+                "cityName": "Nuapada"
+            },
+            {
+                "cityId": "459",
+                "cityName": "Angul"
+            },
+            {
+                "cityId": "470",
+                "cityName": "Balangir"
+            },
+            {
+                "cityId": "449",
+                "cityName": "Nayagarh"
+            },
+            {
+                "cityId": "457",
+                "cityName": "Bhadrak"
+            },
+            {
+                "cityId": "463",
+                "cityName": "Boudh"
+            },
+            {
+                "cityId": "450",
+                "cityName": "Cuttack"
+            },
+            {
+                "cityId": "473",
+                "cityName": "Bargarh"
+            },
+            {
+                "cityId": "465",
+                "cityName": "Rayagada"
+            },
+            {
+                "cityId": "461",
+                "cityName": "Gajapati"
+            },
+            {
+                "cityId": "472",
+                "cityName": "Sambalpur"
+            },
+            {
+                "cityId": "451",
+                "cityName": "Jagatsinghapur"
+            },
+            {
+                "cityId": "460",
+                "cityName": "Ganjam"
+            },
+            {
+                "cityId": "462",
+                "cityName": "Kandhamal"
+            },
+            {
+                "cityId": "453",
+                "cityName": "Kendrapara"
+            },
+            {
+                "cityId": "476",
+                "cityName": "Sundergarh"
+            },
+            {
+                "cityId": "454",
+                "cityName": "Kendujhar"
+            },
+            {
+                "cityId": "448",
+                "cityName": "Puri"
+            },
+            {
+                "cityId": "458",
+                "cityName": "Dhenkanal"
+            }
+        ]
+    },
+    {
+        "stateId": "28",
+        "stateName": "Assam",
+        "city": [
+            {
+                "cityId": "482",
+                "cityName": "Nagaon"
+            },
+            {
+                "cityId": "499",
+                "cityName": "Cachar"
+            },
+            {
+                "cityId": "497",
+                "cityName": "Dibrugarh"
+            },
+            {
+                "cityId": "498",
+                "cityName": "Tinsukia"
+            },
+            {
+                "cityId": "487",
+                "cityName": "Bongaigaon"
+            },
+            {
+                "cityId": "489",
+                "cityName": "Kokrajhar"
+            },
+            {
+                "cityId": "492",
+                "cityName": "Lakhimpur"
+            },
+            {
+                "cityId": "493",
+                "cityName": "Dhemaji"
+            },
+            {
+                "cityId": "496",
+                "cityName": "Golaghat"
+            },
+            {
+                "cityId": "483",
+                "cityName": "Karbi anglong"
+            },
+            {
+                "cityId": "501",
+                "cityName": "Karimganj"
+            },
+            {
+                "cityId": "477",
+                "cityName": "Kamrup"
+            },
+            {
+                "cityId": "485",
+                "cityName": "Goalpara"
+            },
+            {
+                "cityId": "502",
+                "cityName": "North cachar hills"
+            },
+            {
+                "cityId": "500",
+                "cityName": "Hailakandi"
+            },
+            {
+                "cityId": "479",
+                "cityName": "Nalbari"
+            },
+            {
+                "cityId": "481",
+                "cityName": "Barpeta"
+            },
+            {
+                "cityId": "484",
+                "cityName": "Marigaon"
+            },
+            {
+                "cityId": "491",
+                "cityName": "Darrang"
+            },
+            {
+                "cityId": "495",
+                "cityName": "Sibsagar"
+            },
+            {
+                "cityId": "490",
+                "cityName": "Sonitpur"
+            },
+            {
+                "cityId": "488",
+                "cityName": "Dhubri"
+            },
+            {
+                "cityId": "494",
+                "cityName": "Jorhat"
+            }
+        ]
+    },
+    {
+        "stateId": "29",
+        "stateName": "Meghalaya",
+        "city": [
+            {
+                "cityId": "520",
+                "cityName": "South garo hills"
+            },
+            {
+                "cityId": "480",
+                "cityName": "West khasi hills"
+            },
+            {
+                "cityId": "517",
+                "cityName": "East khasi hills"
+            },
+            {
+                "cityId": "518",
+                "cityName": "Jaintia hills"
+            },
+            {
+                "cityId": "478",
+                "cityName": "Ri bhoi"
+            },
+            {
+                "cityId": "486",
+                "cityName": "East garo hills"
+            },
+            {
+                "cityId": "519",
+                "cityName": "West garo hills"
+            }
+        ]
+    },
+    {
+        "stateId": "3",
+        "stateName": "Punjab",
+        "city": [
+            {
+                "cityId": "48",
+                "cityName": "Faridkot"
+            },
+            {
+                "cityId": "34",
+                "cityName": "Moga"
+            },
+            {
+                "cityId": "33",
+                "cityName": "Sangrur"
+            },
+            {
+                "cityId": "38",
+                "cityName": "Gurdaspur"
+            },
+            {
+                "cityId": "42",
+                "cityName": "Kapurthala"
+            },
+            {
+                "cityId": "44",
+                "cityName": "Barnala"
+            },
+            {
+                "cityId": "43",
+                "cityName": "Hoshiarpur"
+            },
+            {
+                "cityId": "47",
+                "cityName": "Muktsar"
+            },
+            {
+                "cityId": "45",
+                "cityName": "Bathinda"
+            },
+            {
+                "cityId": "32",
+                "cityName": "Ludhiana"
+            },
+            {
+                "cityId": "37",
+                "cityName": "Tarn taran"
+            },
+            {
+                "cityId": "28",
+                "cityName": "Rupnagar"
+            },
+            {
+                "cityId": "49",
+                "cityName": "Fazilka"
+            },
+            {
+                "cityId": "41",
+                "cityName": "Nawanshahr"
+            },
+            {
+                "cityId": "29",
+                "cityName": "Patiala"
+            },
+            {
+                "cityId": "46",
+                "cityName": "Mansa"
+            },
+            {
+                "cityId": "31",
+                "cityName": "Fatehgarh sahib"
+            },
+            {
+                "cityId": "35",
+                "cityName": "Firozpur"
+            },
+            {
+                "cityId": "39",
+                "cityName": "Pathankot"
+            },
+            {
+                "cityId": "36",
+                "cityName": "Amritsar"
+            },
+            {
+                "cityId": "40",
+                "cityName": "Jalandhar"
+            }
+        ]
+    },
+    {
+        "stateId": "30",
+        "stateName": "Arunachal pradesh",
+        "city": [
+            {
+                "cityId": "503",
+                "cityName": "West kameng"
+            },
+            {
+                "cityId": "504",
+                "cityName": "East kameng"
+            },
+            {
+                "cityId": "510",
+                "cityName": "Kurung kumey"
+            },
+            {
+                "cityId": "516",
+                "cityName": "Tirap"
+            },
+            {
+                "cityId": "513",
+                "cityName": "Lohit"
+            },
+            {
+                "cityId": "509",
+                "cityName": "Papum pare"
+            },
+            {
+                "cityId": "508",
+                "cityName": "East siang"
+            },
+            {
+                "cityId": "511",
+                "cityName": "Lower subansiri"
+            },
+            {
+                "cityId": "507",
+                "cityName": "Upper siang"
+            },
+            {
+                "cityId": "505",
+                "cityName": "Tawang"
+            },
+            {
+                "cityId": "514",
+                "cityName": "Changlang"
+            },
+            {
+                "cityId": "515",
+                "cityName": "Dibang valley"
+            },
+            {
+                "cityId": "506",
+                "cityName": "West siang"
+            },
+            {
+                "cityId": "512",
+                "cityName": "Upper subansiri"
+            }
+        ]
+    },
+    {
+        "stateId": "31",
+        "stateName": "Manipur",
+        "city": [
+            {
+                "cityId": "529",
+                "cityName": "Tamenglong"
+            },
+            {
+                "cityId": "525",
+                "cityName": "Thoubal"
+            },
+            {
+                "cityId": "523",
+                "cityName": "Senapati"
+            },
+            {
+                "cityId": "521",
+                "cityName": "Imphal west"
+            },
+            {
+                "cityId": "526",
+                "cityName": "Ukhrul"
+            },
+            {
+                "cityId": "528",
+                "cityName": "Churachandpur"
+            },
+            {
+                "cityId": "524",
+                "cityName": "Bishnupur"
+            },
+            {
+                "cityId": "527",
+                "cityName": "Chandel"
+            },
+            {
+                "cityId": "522",
+                "cityName": "Imphal east"
+            }
+        ]
+    },
+    {
+        "stateId": "32",
+        "stateName": "Mizoram",
+        "city": [
+            {
+                "cityId": "533",
+                "cityName": "Lunglei"
+            },
+            {
+                "cityId": "535",
+                "cityName": "Champhai"
+            },
+            {
+                "cityId": "531",
+                "cityName": "Kolasib"
+            },
+            {
+                "cityId": "534",
+                "cityName": "Serchhip"
+            },
+            {
+                "cityId": "530",
+                "cityName": "Aizawl"
+            },
+            {
+                "cityId": "536",
+                "cityName": "Lawngtlai"
+            },
+            {
+                "cityId": "537",
+                "cityName": "Saiha"
+            },
+            {
+                "cityId": "532",
+                "cityName": "Mammit"
+            }
+        ]
+    },
+    {
+        "stateId": "33",
+        "stateName": "Nagaland",
+        "city": [
+            {
+                "cityId": "538",
+                "cityName": "Kohima"
+            },
+            {
+                "cityId": "543",
+                "cityName": "Zunhebotto"
+            },
+            {
+                "cityId": "545",
+                "cityName": "Tuensang"
+            },
+            {
+                "cityId": "541",
+                "cityName": "Dimapur"
+            },
+            {
+                "cityId": "547",
+                "cityName": "Kiphire"
+            },
+            {
+                "cityId": "540",
+                "cityName": "Wokha"
+            },
+            {
+                "cityId": "544",
+                "cityName": "Mokokchung"
+            },
+            {
+                "cityId": "546",
+                "cityName": "Mon"
+            },
+            {
+                "cityId": "539",
+                "cityName": "Peren"
+            },
+            {
+                "cityId": "548",
+                "cityName": "Longleng"
+            },
+            {
+                "cityId": "542",
+                "cityName": "Phek"
+            }
+        ]
+    },
+    {
+        "stateId": "34",
+        "stateName": "Tripura",
+        "city": [
+            {
+                "cityId": "549",
+                "cityName": "West tripura"
+            }
+        ]
+    },
+    {
+        "stateId": "35",
+        "stateName": "Bihar",
+        "city": []
+    },
+    {
+        "stateId": "36",
+        "stateName": "Jharkhand",
+        "city": []
+    },
+    {
+        "stateId": "4",
+        "stateName": "Chandigarh",
+        "city": [
+            {
+                "cityId": "30",
+                "cityName": "Chandigarh"
+            }
+        ]
+    },
+    {
+        "stateId": "5",
+        "stateName": "Himachal pradesh",
+        "city": [
+            {
+                "cityId": "50",
+                "cityName": "Shimla"
+            },
+            {
+                "cityId": "53",
+                "cityName": "Kullu"
+            },
+            {
+                "cityId": "52",
+                "cityName": "Sirmaur"
+            },
+            {
+                "cityId": "54",
+                "cityName": "Kinnaur"
+            },
+            {
+                "cityId": "51",
+                "cityName": "Solan"
+            }
+        ]
+    },
+    {
+        "stateId": "6",
+        "stateName": "Jammu & kashmir",
+        "city": []
+    },
+    {
+        "stateId": "7",
+        "stateName": "Uttar pradesh",
+        "city": [
+            {
+                "cityId": "104",
+                "cityName": "Azamgarh"
+            },
+            {
+                "cityId": "159",
+                "cityName": "Jalaun"
+            },
+            {
+                "cityId": "108",
+                "cityName": "Faizabad"
+            },
+            {
+                "cityId": "124",
+                "cityName": "Rampur"
+            },
+            {
+                "cityId": "135",
+                "cityName": "Muzaffarnagar"
+            },
+            {
+                "cityId": "145",
+                "cityName": "Gonda"
+            },
+            {
+                "cityId": "157",
+                "cityName": "Jhansi"
+            },
+            {
+                "cityId": "101",
+                "cityName": "Chandauli"
+            },
+            {
+                "cityId": "106",
+                "cityName": "Jaunpur"
+            },
+            {
+                "cityId": "114",
+                "cityName": "Mirzapur"
+            },
+            {
+                "cityId": "155",
+                "cityName": "Kushinagar"
+            },
+            {
+                "cityId": "141",
+                "cityName": "Kheri"
+            },
+            {
+                "cityId": "107",
+                "cityName": "Sultanpur"
+            },
+            {
+                "cityId": "109",
+                "cityName": "Ambedkar nagar"
+            },
+            {
+                "cityId": "158",
+                "cityName": "Lalitpur"
+            },
+            {
+                "cityId": "105",
+                "cityName": "Ballia"
+            },
+            {
+                "cityId": "102",
+                "cityName": "Sant ravidas nagar"
+            },
+            {
+                "cityId": "117",
+                "cityName": "Hardoi"
+            },
+            {
+                "cityId": "112",
+                "cityName": "Raebareli"
+            },
+            {
+                "cityId": "149",
+                "cityName": "Bahraich"
+            },
+            {
+                "cityId": "100",
+                "cityName": "Varanasi"
+            },
+            {
+                "cityId": "152",
+                "cityName": "Gorakhpur"
+            },
+            {
+                "cityId": "121",
+                "cityName": "Pilibhit"
+            },
+            {
+                "cityId": "123",
+                "cityName": "Jyotiba phule nagar"
+            },
+            {
+                "cityId": "150",
+                "cityName": "Sant kabir nagar"
+            },
+            {
+                "cityId": "115",
+                "cityName": "Sonbhadra"
+            },
+            {
+                "cityId": "116",
+                "cityName": "Ghazipur"
+            },
+            {
+                "cityId": "128",
+                "cityName": "Meerut"
+            },
+            {
+                "cityId": "140",
+                "cityName": "Sitapur"
+            },
+            {
+                "cityId": "113",
+                "cityName": "Pratapgarh"
+            },
+            {
+                "cityId": "156",
+                "cityName": "Mathura"
+            },
+            {
+                "cityId": "111",
+                "cityName": "Lucknow"
+            },
+            {
+                "cityId": "154",
+                "cityName": "Deoria"
+            },
+            {
+                "cityId": "147",
+                "cityName": "Shrawasti"
+            },
+            {
+                "cityId": "151",
+                "cityName": "Siddharthnagar"
+            },
+            {
+                "cityId": "148",
+                "cityName": "Basti"
+            },
+            {
+                "cityId": "122",
+                "cityName": "Moradabad"
+            },
+            {
+                "cityId": "120",
+                "cityName": "Bareilly"
+            },
+            {
+                "cityId": "146",
+                "cityName": "Balrampur"
+            },
+            {
+                "cityId": "153",
+                "cityName": "Maharajganj"
+            },
+            {
+                "cityId": "103",
+                "cityName": "Mau"
+            },
+            {
+                "cityId": "132",
+                "cityName": "Bijnor"
+            },
+            {
+                "cityId": "139",
+                "cityName": "Bagpat"
+            },
+            {
+                "cityId": "110",
+                "cityName": "Barabanki"
+            },
+            {
+                "cityId": "134",
+                "cityName": "Saharanpur"
+            },
+            {
+                "cityId": "118",
+                "cityName": "Shahjahanpur"
+            },
+            {
+                "cityId": "119",
+                "cityName": "Budaun"
+            }
+        ]
+    },
+    {
+        "stateId": "8",
+        "stateName": "Uttarakhand",
+        "city": [
+            {
+                "cityId": "129",
+                "cityName": "Pauri garhwal"
+            },
+            {
+                "cityId": "144",
+                "cityName": "Bageshwar"
+            },
+            {
+                "cityId": "131",
+                "cityName": "Chamoli"
+            },
+            {
+                "cityId": "133",
+                "cityName": "Haridwar"
+            },
+            {
+                "cityId": "143",
+                "cityName": "Pithoragarh"
+            },
+            {
+                "cityId": "142",
+                "cityName": "Champawat"
+            },
+            {
+                "cityId": "127",
+                "cityName": "Almora"
+            },
+            {
+                "cityId": "136",
+                "cityName": "Dehradun"
+            },
+            {
+                "cityId": "137",
+                "cityName": "Tehri garhwal"
+            },
+            {
+                "cityId": "138",
+                "cityName": "Uttarkashi"
+            },
+            {
+                "cityId": "125",
+                "cityName": "Udham singh nagar"
+            },
+            {
+                "cityId": "130",
+                "cityName": "Rudraprayag"
+            },
+            {
+                "cityId": "126",
+                "cityName": "Nainital"
+            }
+        ]
+    },
+    {
+        "stateId": "9",
+        "stateName": "Rajasthan",
+        "city": [
+            {
+                "cityId": "185",
+                "cityName": "Jhujhunu"
+            },
+            {
+                "cityId": "175",
+                "cityName": "Bharatpur"
+            },
+            {
+                "cityId": "169",
+                "cityName": "Udaipur"
+            },
+            {
+                "cityId": "166",
+                "cityName": "Rajsamand"
+            },
+            {
+                "cityId": "167",
+                "cityName": "Pali"
+            },
+            {
+                "cityId": "160",
+                "cityName": "Alwar"
+            },
+            {
+                "cityId": "162",
+                "cityName": "Dausa"
+            },
+            {
+                "cityId": "181",
+                "cityName": "Jhalawar"
+            },
+            {
+                "cityId": "178",
+                "cityName": "Bundi"
+            },
+            {
+                "cityId": "161",
+                "cityName": "Jaipur"
+            },
+            {
+                "cityId": "173",
+                "cityName": "Dungarpur"
+            },
+            {
+                "cityId": "180",
+                "cityName": "Baran"
+            },
+            {
+                "cityId": "183",
+                "cityName": "Churu"
+            },
+            {
+                "cityId": "189",
+                "cityName": "Jodhpur"
+            },
+            {
+                "cityId": "163",
+                "cityName": "Tonk"
+            },
+            {
+                "cityId": "191",
+                "cityName": "Barmer"
+            },
+            {
+                "cityId": "164",
+                "cityName": "Ajmer"
+            },
+            {
+                "cityId": "170",
+                "cityName": "Jalor"
+            },
+            {
+                "cityId": "176",
+                "cityName": "Karauli"
+            },
+            {
+                "cityId": "172",
+                "cityName": "Chittorgarh"
+            },
+            {
+                "cityId": "187",
+                "cityName": "Ganganagar"
+            },
+            {
+                "cityId": "188",
+                "cityName": "Hanumangarh"
+            },
+            {
+                "cityId": "184",
+                "cityName": "Sikar"
+            },
+            {
+                "cityId": "174",
+                "cityName": "Banswara"
+            },
+            {
+                "cityId": "179",
+                "cityName": "Kota"
+            },
+            {
+                "cityId": "182",
+                "cityName": "Dholpur"
+            },
+            {
+                "cityId": "168",
+                "cityName": "Sirohi"
+            },
+            {
+                "cityId": "177",
+                "cityName": "Sawai madhopur"
+            },
+            {
+                "cityId": "165",
+                "cityName": "Nagaur"
+            },
+            {
+                "cityId": "171",
+                "cityName": "Bhilwara"
+            },
+            {
+                "cityId": "190",
+                "cityName": "Jaisalmer"
+            },
+            {
+                "cityId": "186",
+                "cityName": "Bikaner"
+            }
+        ]
+    }
+]

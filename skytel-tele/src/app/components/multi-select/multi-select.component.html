@@ -1,0 +1,13 @@
+<mat-form-field>
+    <mat-label>Select State</mat-label>
+    <mat-select [formControl]="selectState" multiple>
+      <mat-select-trigger>
+        {{selectState.value?.[0] || ''}}
+        <span *ngIf="(selectState.value?.length || 0) > 1" class="example-additional-selection">
+          (+{{(selectState.value?.length || 0) - 1}} {{selectState.value?.length === 2 ? 'other' : 'others'}})
+        </span>
+      </mat-select-trigger>
+      <mat-option *ngFor="let states of dataSource" [value]="states.stateName" (click)="toggleSelection(states.stateId)" [disabled]="isDisabled()">{{states.stateName}}</mat-option>
+    </mat-select>
+  </mat-form-field>
+  
